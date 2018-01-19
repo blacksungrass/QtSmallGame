@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/image">
+        <file alias="open">open.png</file>
+        <file alias="target">circle.png</file>
+        <file alias="box">close-box-outline.png</file>
+        <file alias="man">姜饼人-Gingerbread Man.png</file>
+        <file alias="block">listBlock.png</file>
+    </qresource>
+</RCC>
